@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelekocsiForm", "TelekocsiForm\TelekocsiForm.csproj", "{5859E70F-A822-4E16-B46B-EC1DCABF47AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5859E70F-A822-4E16-B46B-EC1DCABF47AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5859E70F-A822-4E16-B46B-EC1DCABF47AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5859E70F-A822-4E16-B46B-EC1DCABF47AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5859E70F-A822-4E16-B46B-EC1DCABF47AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E5440C-4A27-4164-92F4-3B6719C2139A}
+	EndGlobalSection
+EndGlobal
